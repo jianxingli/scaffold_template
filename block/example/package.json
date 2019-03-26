@@ -1,0 +1,16 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "block example",
+    "main": "src/index.vue",
+    "scripts": {
+        "start": "imango-devtools start",
+        "build": "imango-devtools build",
+        "publish": "imango-devtools publish",
+        "add": "imango-devtools add"
+    },
+    "author": "jxli",
+    "license": "ISC",
+    "devDependencies": {
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "{{projectName}",
+  "version": "1.0.0",
+  "description": "{{desc}",
+  "scripts": {
+    "add": "imango-devtools add"
+  },
+  "author": "{{author}}",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
